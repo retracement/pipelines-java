@@ -1,4 +1,4 @@
-https://retracement.visualstudio.com/My%20Test%20Project/_apis/build/status/retracement.pipelines-java?branchName=master
+![](https://retracement.visualstudio.com/My%20Test%20Project/_apis/build/status/retracement.pipelines-java?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
